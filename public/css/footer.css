@@ -6,7 +6,7 @@ footer{
 footer section{
     text-align: center;
     margin-bottom: 40px;
-    padding: 0 70px;
+    padding: 0 75px;
 }
 footer section:last-child{
     text-align: start;
@@ -24,4 +24,5 @@ footer section h4{
 }
 footer section p{
     color: var(--gris-oscuro);
+    font-size: var(--cuerpo-de-texto);
 }
